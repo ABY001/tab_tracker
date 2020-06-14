@@ -1,4 +1,7 @@
 module.exports = {
+    dev: {
+        useEslint: false
+    },
     "env": {
         "browser": true,
         "es2020": true
